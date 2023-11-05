@@ -29,7 +29,7 @@ You can customize the "french_words.csv" file with your own word pairs, or you c
    - Replace the existing word pairs with your own. Each row should have two columns: the first column for words to learn and the second column for definitions or translations in any language or subject you want to learn.
 
 2. **Importing Your Own CSV File:**
-   - If you have a separate CSV file with your word pairs, you can import your own csv file. Make sure that the format of your CSV file matches the script's expectations (first column for words to learn, and the second column for definitions or translations). Also, make sure to change the name of the file with your file name
+   - If you have a separate CSV file with your word pairs, you can import your own csv file. Make sure that the format of your CSV file matches the script's expectations (first column for words to learn, and the second column for definitions or translations). Also, make sure to change the name of the file with your file name in "main.py"
 ![alt text](/customize.file.png)
 By customizing the CSV file and updating the Python script, you can create flashcards with vocabulary that suits your specific needs and interests.
 
